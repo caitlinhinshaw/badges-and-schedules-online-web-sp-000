@@ -17,3 +17,7 @@ def assign_rooms(name_list)
   end
   badge_array
 end
+
+def printer()
+
+end
